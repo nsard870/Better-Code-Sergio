@@ -1,4 +1,5 @@
 🐍 My Python Playground
+
 Welcome to my little corner of GitHub where Python scripts roam free, make friends, and sometimes crash spectacularly.
 
 This repository is basically my Python learning diary — except instead of “Dear diary” it’s “Dear print() statement… why won’t you work?”.
